@@ -1,0 +1,3412 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D931AC.5A080030"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
+
+------=_NextPart_01D931AC.5A080030
+Content-Location: file:///C:/9648B0D3/AppliedMechanics.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 15">
+<meta name=3DOriginator content=3D"Microsoft Word 15">
+<link rel=3DFile-List href=3D"AppliedMechanics_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Advance</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Advance</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2023-01-27T01:33:00Z</o:Created>
+  <o:LastSaved>2023-01-27T01:33:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>865</o:Words>
+  <o:Characters>4933</o:Characters>
+  <o:Lines>41</o:Lines>
+  <o:Paragraphs>11</o:Paragraphs>
+  <o:CharactersWithSpaces>5787</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=3DthemeData href=3D"AppliedMechanics_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping
+href=3D"AppliedMechanics_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
+  DefSemiHidden=3D"false" DefQFormat=3D"false" DefPriority=3D"99"
+  LatentStyleCount=3D"375">
+  <w:LsdException Locked=3D"false" Priority=3D"0" QFormat=3D"true" Name=3D"=
+Normal"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"header"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footer"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"35" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"caption"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of figures"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope return"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"line number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"page number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of authorities"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"macro"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toa heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"10" QFormat=3D"true" Name=3D=
+"Title"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Closing"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Signature"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Default Paragraph Font"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Message Header"/>
+  <w:LsdException Locked=3D"false" Priority=3D"11" QFormat=3D"true" Name=3D=
+"Subtitle"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Salutation"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Date"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Note Heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Block Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Hyperlink"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"FollowedHyperlink"/>
+  <w:LsdException Locked=3D"false" Priority=3D"22" QFormat=3D"true" Name=3D=
+"Strong"/>
+  <w:LsdException Locked=3D"false" Priority=3D"20" QFormat=3D"true" Name=3D=
+"Emphasis"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Document Map"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Plain Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"E-mail Signature"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Top of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Bottom of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal (Web)"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Acronym"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Cite"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Code"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Definition"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Keyboard"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Preformatted"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Sample"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Typewriter"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Variable"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Table"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation subject"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"No List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Contemporary"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Elegant"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Professional"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Balloon Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Theme"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Placeholder =
+Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
+No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
+   Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
+"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
+   Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
+   Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
+   Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" QFormat=3D"true"
+   Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
+   Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
+"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"TOC Heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"41" Name=3D"Plain Table 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"42" Name=3D"Plain Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"43" Name=3D"Plain Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"44" Name=3D"Plain Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"45" Name=3D"Plain Table 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"40" Name=3D"Grid Table Light=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"Grid Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"Grid Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"Grid Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"List Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"List Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"List Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Mention"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Smart Hyperlink"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Hashtag"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Unresolved Mention"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1040178053 9 0 511 0;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1040178053 9 0 511 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073683329 9 0 511 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:125%;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 1 Char";
+	mso-style-next:Normal;
+	margin-top:16.0pt;
+	margin-right:0in;
+	margin-bottom:4.0pt;
+	margin-left:0in;
+	text-align:center;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:20.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	mso-font-kerning:0pt;
+	font-weight:normal;}
+h2
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char";
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0in;
+	margin-bottom:2.0pt;
+	margin-left:0in;
+	text-align:center;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:16.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-weight:normal;}
+h3
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 3 Char";
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:16.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-weight:normal;}
+h4
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 4 Char";
+	mso-style-next:Normal;
+	margin-top:4.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:125%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:15.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-weight:normal;
+	font-style:italic;}
+h5
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 5 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:125%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:14.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-weight:normal;}
+h6
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 6 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:125%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:13.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-weight:normal;
+	font-style:italic;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 7 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:125%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:7;
+	font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 8 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:125%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:8;
+	font-size:11.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-style:italic;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 9 Char";
+	mso-style-next:Normal;
+	margin-top:2.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:125%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	mso-outline-level:9;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	font-weight:bold;
+	font-style:italic;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-noshow:yes;
+	mso-style-priority:35;
+	mso-style-qformat:yes;
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	color:#404040;
+	mso-themecolor:text1;
+	mso-themetint:191;
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:20.0pt;
+	margin-left:0in;
+	mso-add-space:auto;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-top-alt:solid #A5A5A5 .75pt;
+	mso-border-top-themecolor:accent3;
+	mso-border-bottom-alt:solid #A5A5A5 .75pt;
+	mso-border-bottom-themecolor:accent3;
+	padding:0in;
+	mso-padding-alt:8.0pt 0in 8.0pt 0in;
+	font-size:36.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#44546A;
+	mso-themecolor:text2;
+	text-transform:uppercase;
+	letter-spacing:1.5pt;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-top-alt:solid #A5A5A5 .75pt;
+	mso-border-top-themecolor:accent3;
+	mso-border-bottom-alt:solid #A5A5A5 .75pt;
+	mso-border-bottom-themecolor:accent3;
+	padding:0in;
+	mso-padding-alt:8.0pt 0in 8.0pt 0in;
+	font-size:36.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#44546A;
+	mso-themecolor:text2;
+	text-transform:uppercase;
+	letter-spacing:1.5pt;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-top-alt:solid #A5A5A5 .75pt;
+	mso-border-top-themecolor:accent3;
+	mso-border-bottom-alt:solid #A5A5A5 .75pt;
+	mso-border-bottom-themecolor:accent3;
+	padding:0in;
+	mso-padding-alt:8.0pt 0in 8.0pt 0in;
+	font-size:36.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#44546A;
+	mso-themecolor:text2;
+	text-transform:uppercase;
+	letter-spacing:1.5pt;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Title Char";
+	mso-style-next:Normal;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:20.0pt;
+	margin-left:0in;
+	mso-add-space:auto;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	border:none;
+	mso-border-top-alt:solid #A5A5A5 .75pt;
+	mso-border-top-themecolor:accent3;
+	mso-border-bottom-alt:solid #A5A5A5 .75pt;
+	mso-border-bottom-themecolor:accent3;
+	padding:0in;
+	mso-padding-alt:8.0pt 0in 8.0pt 0in;
+	font-size:36.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#44546A;
+	mso-themecolor:text2;
+	text-transform:uppercase;
+	letter-spacing:1.5pt;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Subtitle Char";
+	mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	text-align:center;
+	line-height:125%;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	color:#44546A;
+	mso-themecolor:text2;}
+em
+	{mso-style-priority:20;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	color:black;
+	mso-themecolor:text1;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-priority:29;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Quote Char";
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:.5in;
+	margin-bottom:8.0pt;
+	margin-left:.5in;
+	text-align:center;
+	line-height:125%;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	color:#7B7B7B;
+	mso-themecolor:accent3;
+	mso-themeshade:191;
+	font-style:italic;}
+p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote
+	{mso-style-priority:30;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Intense Quote Char";
+	mso-style-next:Normal;
+	margin-top:8.0pt;
+	margin-right:.65in;
+	margin-bottom:8.0pt;
+	margin-left:.65in;
+	text-align:center;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	text-transform:uppercase;}
+span.MsoSubtleEmphasis
+	{mso-style-priority:19;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	color:#595959;
+	mso-themecolor:text1;
+	mso-themetint:166;
+	font-style:italic;}
+span.MsoIntenseEmphasis
+	{mso-style-priority:21;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	color:windowtext;
+	font-weight:bold;
+	font-style:italic;}
+span.MsoSubtleReference
+	{mso-style-priority:31;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	font-variant:small-caps;
+	color:#404040;
+	mso-themecolor:text1;
+	mso-themetint:191;
+	text-transform:none;
+	letter-spacing:0pt;
+	text-underline:#7F7F7F;
+	text-decoration:underline;
+	text-underline:single;
+	mso-text-underline-themecolor:text1;
+	mso-text-underline-themetint:128;}
+span.MsoIntenseReference
+	{mso-style-priority:32;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	font-variant:small-caps;
+	color:windowtext;
+	text-transform:none;
+	letter-spacing:0pt;
+	font-weight:bold;
+	text-decoration:underline;
+	text-underline:single;}
+span.MsoBookTitle
+	{mso-style-priority:33;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	font-variant:small-caps;
+	text-transform:none;
+	letter-spacing:0pt;
+	font-weight:bold;}
+p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
+	{mso-style-noshow:yes;
+	mso-style-priority:39;
+	mso-style-qformat:yes;
+	mso-style-parent:"Heading 1";
+	mso-style-next:Normal;
+	margin-top:16.0pt;
+	margin-right:0in;
+	margin-bottom:4.0pt;
+	margin-left:0in;
+	text-align:center;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:20.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 1";
+	mso-ansi-font-size:20.0pt;
+	mso-bidi-font-size:20.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 3";
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 4";
+	mso-ansi-font-size:15.0pt;
+	mso-bidi-font-size:15.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-style:italic;}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 5";
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;}
+span.Heading6Char
+	{mso-style-name:"Heading 6 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 6";
+	mso-ansi-font-size:13.0pt;
+	mso-bidi-font-size:13.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-style:italic;}
+span.Heading7Char
+	{mso-style-name:"Heading 7 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 7";
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;}
+span.Heading8Char
+	{mso-style-name:"Heading 8 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 8";
+	mso-ansi-font-size:11.0pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	font-style:italic;}
+span.Heading9Char
+	{mso-style-name:"Heading 9 Char";
+	mso-style-noshow:yes;
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 9";
+	font-weight:bold;
+	font-style:italic;}
+span.TitleChar
+	{mso-style-name:"Title Char";
+	mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Title;
+	mso-ansi-font-size:36.0pt;
+	mso-bidi-font-size:36.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#44546A;
+	mso-themecolor:text2;
+	text-transform:uppercase;
+	letter-spacing:1.5pt;}
+span.SubtitleChar
+	{mso-style-name:"Subtitle Char";
+	mso-style-priority:11;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Subtitle;
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	color:#44546A;
+	mso-themecolor:text2;}
+span.QuoteChar
+	{mso-style-name:"Quote Char";
+	mso-style-priority:29;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Quote;
+	mso-ansi-font-size:12.0pt;
+	mso-bidi-font-size:12.0pt;
+	color:#7B7B7B;
+	mso-themecolor:accent3;
+	mso-themeshade:191;
+	font-style:italic;}
+span.IntenseQuoteChar
+	{mso-style-name:"Intense Quote Char";
+	mso-style-priority:30;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Intense Quote";
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Calibri Light",sans-serif;
+	mso-ascii-font-family:"Calibri Light";
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:"Calibri Light";
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#2F5496;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	text-transform:uppercase;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.5pt;
+	mso-ansi-font-size:10.5pt;
+	mso-bidi-font-size:10.5pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:125%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:136804405;
+	mso-list-template-ids:-1140169748;}
+@list l0:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:344094555;
+	mso-list-template-ids:1024129310;}
+@list l1:level1
+	{mso-level-text:%1;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.3in;
+	text-indent:-.3in;}
+@list l1:level2
+	{mso-level-text:"%1\.%2";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.4in;
+	text-indent:-.4in;}
+@list l1:level3
+	{mso-level-text:"%1\.%2\.%3";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l1:level4
+	{mso-level-text:"%1\.%2\.%3\.%4";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.6in;
+	text-indent:-.6in;}
+@list l1:level5
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.7in;
+	text-indent:-.7in;}
+@list l1:level6
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.8in;
+	text-indent:-.8in;}
+@list l1:level7
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.9in;
+	text-indent:-.9in;}
+@list l1:level8
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l1:level9
+	{mso-level-text:"%1\.%2\.%3\.%4\.%5\.%6\.%7\.%8\.%9";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.1in;
+	text-indent:-1.1in;}
+@list l2
+	{mso-list-id:446659314;
+	mso-list-template-ids:-915911258;}
+@list l2:level1
+	{mso-level-start-at:6;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3
+	{mso-list-id:691151633;
+	mso-list-template-ids:19922978;}
+@list l3:level1
+	{mso-level-start-at:7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4
+	{mso-list-id:850922619;
+	mso-list-template-ids:38335424;}
+@list l4:level1
+	{mso-level-start-at:4;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5
+	{mso-list-id:877201370;
+	mso-list-template-ids:-683354186;}
+@list l5:level1
+	{mso-level-start-at:8;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6
+	{mso-list-id:997147284;
+	mso-list-template-ids:-1291570222;}
+@list l7
+	{mso-list-id:1167018219;
+	mso-list-template-ids:1399193794;}
+@list l8
+	{mso-list-id:1517303121;
+	mso-list-template-ids:1058149986;}
+@list l8:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9
+	{mso-list-id:1694574450;
+	mso-list-template-ids:1713038;}
+@list l9:level1
+	{mso-level-start-at:3;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10
+	{mso-list-id:1860578651;
+	mso-list-template-ids:2091524184;}
+@list l11
+	{mso-list-id:2085377306;
+	mso-list-template-ids:-112033108;}
+@list l11:level1
+	{mso-level-start-at:9;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0in;
+	line-height:125%;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US style=3D'tab-interval:.5in'>
+
+<div class=3DWordSection1>
+
+<p class=3DMsoNormal style=3D'mso-margin-bottom-alt:auto;line-height:normal=
+'><span
+class=3DHeading1Char><span style=3D'font-size:20.0pt'>Course Objective&nbsp=
+;:</span></span><span
+style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#212529'><br>
+This course has been designed to provide basic knowledge of engineering
+mechanics to the students of all branches of engineering so that it would be
+helpful for them to understand structural engineering stress analysis
+principles in later courses or to use basics of mechanics in their branch of
+engineering. This course shall be considered as an introduction: common for=
+ all
+engineering faculties of Tribhuvan University in the first year of
+undergraduate. Emphasis has been given to Statics.<o:p></o:p></span></p>
+
+<ol start=3D1 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;line-height:normal;mso-list:l10 level1 lfo1;tab-stops:list .5in'>=
+<b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Introduction(2 hours)</span></b><span style=3D'font=
+-size:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'><o:p></o:p></span></li>
+ <ol start=3D1 type=3D1>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l10 level2 lfo1;tab-stops:list 1.0in=
+'><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Definitions and scope of Applied Mechanics<o:p></o=
+:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l10 level2 lfo1;tab-stops:list 1.0in=
+'><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Concept of Rigid and Deformed Bodies<o:p></o:p></s=
+pan></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l10 level2 lfo1;tab-stops:list 1.0in=
+'><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Fundamental concepts and principles of mechanics:
+      Newtonian Mechanics<o:p></o:p></span></li>
+ </ol>
+</ol>
+
+<ol start=3D2 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;line-height:normal;mso-list:l0 level1 lfo2;tab-stops:list .5in'><=
+b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Basic Concept in Statics and Static Equilibrium(4
+     hours)</span></b><span style=3D'font-size:10.0pt;font-family:"Segoe UI=
+",sans-serif;
+     mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></li>
+ <ol start=3D1 type=3D1>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l0 level2 lfo2;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Concept of Particles and Free Body Diagram<o:p></o=
+:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l0 level2 lfo2;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Physical meaning of Equilibrium and its essence in
+      structural application<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l0 level2 lfo2;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Equation of Equilibrium in Two Dimension<o:p></o:p=
+></span></li>
+ </ol>
+</ol>
+
+<ol start=3D3 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;line-height:normal;mso-list:l9 level1 lfo3;tab-stops:list .5in'><=
+b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Forces acting on particle and rigid body(6 hours)</=
+span></b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'><o:p></o:p></span></li>
+ <ol start=3D1 type=3D1>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l9 level2 lfo3;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Different types of Forces: Point, Surface Traction=
+ and
+      Body Forces -Translational Force and Rotational Force: Relevant Examp=
+les<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l9 level2 lfo3;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Resolution and Composition of Forces: Relevant
+      Examples<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l9 level2 lfo3;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Principle of Transmissibility and Equivalent Force=
+s:
+      Relevant Examples<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l9 level2 lfo3;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Moments and couples: Relevant Examples<o:p></o:p><=
+/span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l9 level2 lfo3;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Resolution of a Force into Forces and a Couple:
+      Relevant Examples<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l9 level2 lfo3;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Resultant of Force and Moment for a System of Forc=
+e:
+      Examples<o:p></o:p></span></li>
+ </ol>
+</ol>
+
+<ol start=3D4 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;line-height:normal;mso-list:l4 level1 lfo4;tab-stops:list .5in'><=
+b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Center of Gravity, Centroid and Moment of Inertia(6
+     hours)</span></b><span style=3D'font-size:10.0pt;font-family:"Segoe UI=
+",sans-serif;
+     mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></li>
+ <ol start=3D1 type=3D1>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l4 level2 lfo4;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Concepts and Calculation of Centre of Gravity and
+      Centroid: Examples<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l4 level2 lfo4;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Calculation of Second Moment of Area / Moment of
+      Inertia and Radius of Gyration and Relevant usages<o:p></o:p></span><=
+/li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l4 level2 lfo4;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Use of Parallel axis Theorem: Relevant Examples<o:=
+p></o:p></span></li>
+ </ol>
+</ol>
+
+<ol start=3D5 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;line-height:normal;mso-list:l8 level1 lfo5;tab-stops:list .5in'><=
+b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Friction(2 hours)</span></b><span style=3D'font-siz=
+e:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'><o:p></o:p></span></li>
+ <ol start=3D1 type=3D1>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l8 level2 lfo5;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Laws of Friction, Static and Dynamic Coefficient of
+      Friction, Angle of Friction: Engineering Examples of usage of frictio=
+n<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l8 level2 lfo5;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Calculations involving friction in structures: Exa=
+mple
+      as High Tension Friction Grip bolts and its free body diagram<o:p></o=
+:p></span></li>
+ </ol>
+</ol>
+
+<ol start=3D6 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;line-height:normal;mso-list:l2 level1 lfo6;tab-stops:list .5in'><=
+b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Analysis of Beams and Frames(9 hours)</span></b><sp=
+an
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'><o:p></o:p></span></li>
+ <ol start=3D1 type=3D1>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l2 level2 lfo6;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Introduction to Structures: Discrete and Continuum=
+<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l2 level2 lfo6;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Concept of Load Estimating and Support Idealizatio=
+ns:
+      Examples and Standard symbols<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l2 level2 lfo6;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Use of beams/frames in engineering: Concept of rig=
+id
+      joints/distribute loads in beams/frames.<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l2 level2 lfo6;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Concept of Statically/Kinematically Determinate and
+      Indeterminate Beams and Frames: Relevant Examples<o:p></o:p></span></=
+li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l2 level2 lfo6;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Calculation of Axial Force, Shear Force and Bending
+      Moment for Determinate Beams and Frames<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l2 level2 lfo6;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Axial Force, Shear Force and Bending Moment Diagra=
+ms
+      and Examples for drawing it.<o:p></o:p></span></li>
+ </ol>
+</ol>
+
+<ol start=3D7 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;line-height:normal;mso-list:l3 level1 lfo7;tab-stops:list .5in'><=
+b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Analysis of Plane Trusses(4 hours)</span></b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'><o:p></o:p></span></li>
+ <ol start=3D1 type=3D1>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l3 level2 lfo7;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Use of trusses in engineering: Concept of pin
+      joints/joint loads in trusses.<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l3 level2 lfo7;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Calculation of Member Forces of Truss by method of
+      joints: Simple Examples<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l3 level2 lfo7;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Calculation of Member Forces of Truss by method of
+      sections: Simple Examples<o:p></o:p></span></li>
+ </ol>
+</ol>
+
+<ol start=3D8 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;line-height:normal;mso-list:l5 level1 lfo8;tab-stops:list .5in'><=
+b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Kinematics of Particles&nbsp;and Rigid Body(7 hours=
+)</span></b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'><o:p></o:p></span></li>
+ <ol start=3D1 type=3D1>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l5 level2 lfo8;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Rectilinear Kinematics: Continuous Motion<o:p></o:=
+p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l5 level2 lfo8;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Position, Velocity and Acceleration of a Particle =
+and
+      Rigid Body<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l5 level2 lfo8;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Determination of Motion of Particle and Rigid Body=
+<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l5 level2 lfo8;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Uniform Rectilinear Motion of Particles<o:p></o:p>=
+</span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l5 level2 lfo8;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Uniformly Accelerated Rectilinear Motion of Partic=
+les<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l5 level2 lfo8;tab-stops:list 1.0in'=
+><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Curvilinear Motion: Rectangular Components with Ex=
+amples
+      of Particles<o:p></o:p></span></li>
+ </ol>
+</ol>
+
+<ol start=3D9 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;line-height:normal;mso-list:l11 level1 lfo9;tab-stops:list .5in'>=
+<b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Kinetics of Particles and Rigid Body: Force and
+     Acceleration(5 hours)</span></b><span style=3D'font-size:10.0pt;font-f=
+amily:
+     "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'><o:p>=
+</o:p></span></li>
+ <ol start=3D1 type=3D1>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l11 level2 lfo9;tab-stops:list 1.0in=
+'><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Newton’s Second Law of Motion and momentum<o:p></o=
+:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l11 level2 lfo9;tab-stops:list 1.0in=
+'><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Equation of Motion and Dynamic Equilibrium: Releva=
+nt
+      Examples<o:p></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l11 level2 lfo9;tab-stops:list 1.0in=
+'><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Angular Momentum and Rate of Change<o:p></o:p></sp=
+an></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l11 level2 lfo9;tab-stops:list 1.0in=
+'><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Equation of Motion-Rectilinear and Curvilinear<o:p=
+></o:p></span></li>
+  <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:
+      auto;line-height:normal;mso-list:l11 level2 lfo9;tab-stops:list 1.0in=
+'><span
+      style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-farea=
+st-font-family:
+      "Times New Roman"'>Rectangular: Tangential and Normal Components and
+      Polar Coordinates: Radial and Transverse Components<b>&nbsp;</b><o:p>=
+</o:p></span></li>
+ </ol>
+</ol>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-=
+align:
+justify;text-justify:inter-ideograph;line-height:normal'><b><span
+style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#212529'>Tutorials:</span></b><span style=3D'font-s=
+ize:
+10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New=
+ Roman";
+color:#212529'><br>
+<b><i>There shall be related tutorials exercised in class and given as regu=
+lar
+homework exercises. Tutorials can be as following for each specified chapte=
+rs.</i></b></span><span
+style=3D'font-size:10.0pt;font-family:"Times New Roman",serif;mso-fareast-f=
+ont-family:
+"Times New Roman"'><o:p></o:p></span></p>
+
+<ol start=3D1 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l7 level1 lfo10;tab-stops:list .5in'><b><span style=3D'font-s=
+ize:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'>Introduction(1
+     hour) :</span></b><span style=3D'font-size:10.0pt;font-family:"Segoe U=
+I",sans-serif;
+     mso-fareast-font-family:"Times New Roman"'>&nbsp; Theory; definition a=
+nd
+     concept type questions.<o:p></o:p></span></li>
+</ol>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-justify:inte=
+r-ideograph;
+line-height:normal'><span style=3D'font-size:10.0pt;font-family:"Segoe UI",=
+sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#212529'><br style=3D'mso-s=
+pecial-character:
+line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><o:p></o:p></span></p>
+
+<ol start=3D2 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l7 level1 lfo10;tab-stops:list .5in'><b><span style=3D'font-s=
+ize:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'>Basic
+     Concept in Statics and Static Equilibrium(2 hours) :</span></b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>&nbsp;Theory; definition and concept type questions=
+.<o:p></o:p></span></li>
+</ol>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-justify:inte=
+r-ideograph;
+line-height:normal'><span style=3D'font-size:10.0pt;font-family:"Segoe UI",=
+sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#212529'><br style=3D'mso-s=
+pecial-character:
+line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><o:p></o:p></span></p>
+
+<ol start=3D3 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l7 level1 lfo10;tab-stops:list .5in'><b><span style=3D'font-s=
+ize:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'>Concept
+     of Force acting on structures(3 hours) :&nbsp;</span></b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Practical examples; numerical examples and derivati=
+on
+     types of questions.There can be tutorials for each sub-section.<o:p></=
+o:p></span></li>
+</ol>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-justify:inte=
+r-ideograph;
+line-height:normal'><span style=3D'font-size:10.0pt;font-family:"Segoe UI",=
+sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#212529'><br style=3D'mso-s=
+pecial-character:
+line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><o:p></o:p></span></p>
+
+<ol start=3D4 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l7 level1 lfo10;tab-stops:list .5in'><b><span style=3D'font-s=
+ize:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'>Center
+     of Gravity, Centroid and Moment of Inertia(4 hours)&nbsp;:&nbsp;</span=
+></b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Concept type; numerical examples and practical exam=
+ples
+     type questions.<o:p></o:p></span></li>
+</ol>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-justify:inte=
+r-ideograph;
+line-height:normal'><span style=3D'font-size:10.0pt;font-family:"Segoe UI",=
+sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#212529'><br style=3D'mso-s=
+pecial-character:
+line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><o:p></o:p></span></p>
+
+<ol start=3D5 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l7 level1 lfo10;tab-stops:list .5in'><b><span style=3D'font-s=
+ize:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'>Friction
+     (2 hours) :&nbsp;</span></b><span style=3D'font-size:10.0pt;font-famil=
+y:
+     "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Defin=
+ition
+     type; Practical example type and numerical type questions.<o:p></o:p><=
+/span></li>
+</ol>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-justify:inte=
+r-ideograph;
+line-height:normal'><span style=3D'font-size:10.0pt;font-family:"Segoe UI",=
+sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#212529'><br style=3D'mso-s=
+pecial-character:
+line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><o:p></o:p></span></p>
+
+<ol start=3D6 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l7 level1 lfo10;tab-stops:list .5in'><b><span style=3D'font-s=
+ize:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'>Analysis
+     of Beam and Frame(5 hours) :&nbsp;</span></b><span style=3D'font-size:=
+10.0pt;
+     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New R=
+oman"'>Concept
+     type; definition type; numerical examples type with diagrams
+     questions.There can be tutorials for each sub-section.<o:p></o:p></spa=
+n></li>
+</ol>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-justify:inte=
+r-ideograph;
+line-height:normal'><span style=3D'font-size:10.0pt;font-family:"Segoe UI",=
+sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#212529'><br style=3D'mso-s=
+pecial-character:
+line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><o:p></o:p></span></p>
+
+<ol start=3D7 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l7 level1 lfo10;tab-stops:list .5in'><b><span style=3D'font-s=
+ize:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'>Analysis
+     of Plane Trusses(5 hours)&nbsp;&nbsp;:&nbsp;</span></b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Concept type; definition type; numerical examples t=
+ype
+     questions.There can be tutorials for each sub-section.<o:p></o:p></spa=
+n></li>
+</ol>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-justify:inte=
+r-ideograph;
+line-height:normal'><span style=3D'font-size:10.0pt;font-family:"Segoe UI",=
+sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#212529'><br style=3D'mso-s=
+pecial-character:
+line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><o:p></o:p></span></p>
+
+<ol start=3D8 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l7 level1 lfo10;tab-stops:list .5in'><b><span style=3D'font-s=
+ize:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'>Kinematics
+     of Particles and Rigid Body(4 hours) :</span></b><span style=3D'font-s=
+ize:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'>&nbsp;Definition
+     type; numerical examples type questions. There can be tutorials for ea=
+ch
+     sub-section.<o:p></o:p></span></li>
+</ol>
+
+<p class=3DMsoNormal style=3D'margin-top:0in;margin-right:0in;margin-bottom=
+:0in;
+margin-left:.5in;margin-bottom:.0001pt;text-align:justify;text-justify:inte=
+r-ideograph;
+line-height:normal'><span style=3D'font-size:10.0pt;font-family:"Segoe UI",=
+sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#212529'><br style=3D'mso-s=
+pecial-character:
+line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><o:p></o:p></span></p>
+
+<ol start=3D9 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l7 level1 lfo10;tab-stops:list .5in'><b><span style=3D'font-s=
+ize:
+     10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Time=
+s New Roman"'>Kinetics
+     of Particles and Rigid Body Force and Acceleration(4 hours)&nbsp;:&nbs=
+p;</span></b><span
+     style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman"'>Concept type; definition type; numerical examples t=
+ype
+     questions. There can be tutorials for each sub-section.<o:p></o:p></sp=
+an></li>
+</ol>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-=
+align:
+justify;text-justify:inter-ideograph;line-height:normal'><b><span
+style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#212529'>References:</span></b><span style=3D'font-=
+size:
+10.0pt;font-family:"Times New Roman",serif;mso-fareast-font-family:"Times N=
+ew Roman"'><o:p></o:p></span></p>
+
+<ol start=3D1 type=3D1>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l6 level1 lfo11;tab-stops:list .5in'><span style=3D'font-size=
+:10.0pt;
+     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New R=
+oman"'>“Mechanics
+     of Engineers- Statics and Dynamics”, F.P. Beer and E.R.Johnston, Jr. 4=
+th
+     Edition, Mc Graw-Hill, 1987.<o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l6 level1 lfo11;tab-stops:list .5in'><span style=3D'font-size=
+:10.0pt;
+     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New R=
+oman"'>“Engineering
+     Mechanics-Statics and Dynamics”, R.C. Hibbeler, Ashok Gupta. 11th
+     edition., New Delhi, Pearson, 2009.<o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l6 level1 lfo11;tab-stops:list .5in'><span style=3D'font-size=
+:10.0pt;
+     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New R=
+oman"'>“Engineering
+     Mechanics- Statics and Dynamics”, I.C. Jong and B.G. Rogers<o:p></o:p>=
+</span></li>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l6 level1 lfo11;tab-stops:list .5in'><span style=3D'font-size=
+:10.0pt;
+     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New R=
+oman"'>“Engineering
+     Mechanics- Statics and Dynamics”, D.K. Anand and P.F. Cunnif<o:p></o:p=
+></span></li>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l6 level1 lfo11;tab-stops:list .5in'><span style=3D'font-size=
+:10.0pt;
+     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New R=
+oman"'>“A
+     Text Book of Engineering Mechanics”, R.S. Khurmi<o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l6 level1 lfo11;tab-stops:list .5in'><span style=3D'font-size=
+:10.0pt;
+     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New R=
+oman"'>“Applied
+     Mechanics and Strength of Materials”, R.S.Khurmi<o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l6 level1 lfo11;tab-stops:list .5in'><span style=3D'font-size=
+:10.0pt;
+     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New R=
+oman"'>“A
+     Text Book of Applied Mechanics”, I.B.Prasad<o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'color:#212529;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;text-justify:inter-ideograph;line-height:norma=
+l;
+     mso-list:l6 level1 lfo11;tab-stops:list .5in'><span style=3D'font-size=
+:10.0pt;
+     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New R=
+oman"'>“Engineering
+     Mechanics-Statics and Dynamics”, Shame, I.H. 3rd ed., New Delhi, Prent=
+ice
+     Hall of India, 1990.<o:p></o:p></span></li>
+</ol>
+
+<p class=3DMsoNormal style=3D'mso-margin-bottom-alt:auto;text-align:justify;
+text-justify:inter-ideograph;line-height:normal'><b><span style=3D'font-siz=
+e:
+10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New=
+ Roman";
+color:#212529'>Evaluation Scheme</span></b><span style=3D'font-size:10.0pt;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#212529'><br>
+The questions will cover all the chapters of&nbsp; the syllabus. The evalua=
+tion
+scheme will be as indicated in the table below:<o:p></o:p></span></p>
+
+<table class=3DMsoNormalTable border=3D1 cellspacing=3D0 cellpadding=3D0 wi=
+dth=3D301
+ style=3D'width:225.75pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 0in 0in 0in'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=3D73 valign=3Dtop style=3D'width:54.75pt;border:solid #DEE2E6 1=
+.0pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><b><span style=3D'font-size:10.0pt;font-family=
+:"Segoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>Chapter<o:p></o:=
+p></span></b></p>
+  </td>
+  <td width=3D90 valign=3Dtop style=3D'width:67.5pt;border:solid #DEE2E6 1.=
+0pt;
+  border-left:none;mso-border-left-alt:solid #DEE2E6 .75pt;mso-border-alt:s=
+olid #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><b><span style=3D'font-size:10.0pt;font-family=
+:"Segoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>Hours</span></b>=
+<span
+  style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-f=
+ont-family:
+  "Times New Roman";color:#212529'><o:p></o:p></span></p>
+  </td>
+  <td width=3D138 valign=3Dtop style=3D'width:103.5pt;border:solid #DEE2E6 =
+1.0pt;
+  border-left:none;mso-border-left-alt:solid #DEE2E6 .75pt;mso-border-alt:s=
+olid #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><b><span style=3D'font-size:10.0pt;font-family=
+:"Segoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>Mark Distributio=
+n*</span></b><span
+  style=3D'font-size:10.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-f=
+ont-family:
+  "Times New Roman";color:#212529'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1'>
+  <td width=3D73 valign=3Dtop style=3D'width:54.75pt;border:solid #DEE2E6 1=
+.0pt;
+  border-top:none;mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-alt:sol=
+id #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>1<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D90 valign=3Dtop style=3D'width:67.5pt;border-top:none;border-=
+left:none;
+  border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>2<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 valign=3Dtop style=3D'width:103.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>3<o:p></o:p></sp=
+an></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2'>
+  <td width=3D73 valign=3Dtop style=3D'width:54.75pt;border:solid #DEE2E6 1=
+.0pt;
+  border-top:none;mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-alt:sol=
+id #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>2<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D90 valign=3Dtop style=3D'width:67.5pt;border-top:none;border-=
+left:none;
+  border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>4<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 valign=3Dtop style=3D'width:103.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>8<o:p></o:p></sp=
+an></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3'>
+  <td width=3D73 valign=3Dtop style=3D'width:54.75pt;border:solid #DEE2E6 1=
+.0pt;
+  border-top:none;mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-alt:sol=
+id #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>3<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D90 valign=3Dtop style=3D'width:67.5pt;border-top:none;border-=
+left:none;
+  border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>6<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 valign=3Dtop style=3D'width:103.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>12<o:p></o:p></s=
+pan></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:4'>
+  <td width=3D73 valign=3Dtop style=3D'width:54.75pt;border:solid #DEE2E6 1=
+.0pt;
+  border-top:none;mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-alt:sol=
+id #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>4<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D90 valign=3Dtop style=3D'width:67.5pt;border-top:none;border-=
+left:none;
+  border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>6<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 valign=3Dtop style=3D'width:103.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>12<o:p></o:p></s=
+pan></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:5'>
+  <td width=3D73 valign=3Dtop style=3D'width:54.75pt;border:solid #DEE2E6 1=
+.0pt;
+  border-top:none;mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-alt:sol=
+id #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>5<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D90 valign=3Dtop style=3D'width:67.5pt;border-top:none;border-=
+left:none;
+  border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>2<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 valign=3Dtop style=3D'width:103.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>4<o:p></o:p></sp=
+an></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:6'>
+  <td width=3D73 valign=3Dtop style=3D'width:54.75pt;border:solid #DEE2E6 1=
+.0pt;
+  border-top:none;mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-alt:sol=
+id #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>6<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D90 valign=3Dtop style=3D'width:67.5pt;border-top:none;border-=
+left:none;
+  border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>9<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 valign=3Dtop style=3D'width:103.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>13<o:p></o:p></s=
+pan></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:7'>
+  <td width=3D73 valign=3Dtop style=3D'width:54.75pt;border:solid #DEE2E6 1=
+.0pt;
+  border-top:none;mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-alt:sol=
+id #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>7<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D90 valign=3Dtop style=3D'width:67.5pt;border-top:none;border-=
+left:none;
+  border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>4<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 valign=3Dtop style=3D'width:103.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>8<o:p></o:p></sp=
+an></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:8'>
+  <td width=3D73 valign=3Dtop style=3D'width:54.75pt;border:solid #DEE2E6 1=
+.0pt;
+  border-top:none;mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-alt:sol=
+id #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>8<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D90 valign=3Dtop style=3D'width:67.5pt;border-top:none;border-=
+left:none;
+  border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>7<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 valign=3Dtop style=3D'width:103.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>10<o:p></o:p></s=
+pan></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:9'>
+  <td width=3D73 valign=3Dtop style=3D'width:54.75pt;border:solid #DEE2E6 1=
+.0pt;
+  border-top:none;mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-alt:sol=
+id #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>9<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D90 valign=3Dtop style=3D'width:67.5pt;border-top:none;border-=
+left:none;
+  border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>5<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 valign=3Dtop style=3D'width:103.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>10<o:p></o:p></s=
+pan></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:10;mso-yfti-lastrow:yes'>
+  <td width=3D73 valign=3Dtop style=3D'width:54.75pt;border:solid #DEE2E6 1=
+.0pt;
+  border-top:none;mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-alt:sol=
+id #DEE2E6 .75pt;
+  padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>Total<o:p></o:p>=
+</span></p>
+  </td>
+  <td width=3D90 valign=3Dtop style=3D'width:67.5pt;border-top:none;border-=
+left:none;
+  border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>45<o:p></o:p></s=
+pan></p>
+  </td>
+  <td width=3D138 valign=3Dtop style=3D'width:103.5pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid #DEE2E6 1.0pt;border-right:solid #DEE2E6 1.0pt;
+  mso-border-top-alt:solid #DEE2E6 .75pt;mso-border-left-alt:solid #DEE2E6 =
+.75pt;
+  mso-border-alt:solid #DEE2E6 .75pt;padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'mso-margin-bottom-alt:auto;t=
+ext-align:
+  center;line-height:normal'><span style=3D'font-size:10.0pt;font-family:"S=
+egoe UI",sans-serif;
+  mso-fareast-font-family:"Times New Roman";color:#212529'>80<o:p></o:p></s=
+pan></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;line-height:125%;font-=
+family:
+"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#2125=
+29'><br>
+<b>*Note: There may be minor deviation in marks distribution.</b></span><sp=
+an
+style=3D'font-size:10.0pt;line-height:125%'><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D931AC.5A080030
+Content-Location: file:///C:/9648B0D3/AppliedMechanics_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+UEsDBBQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbKyRy07DMBBF
+90j8g+UtSpyyQAgl6YLHjseifMDImSQWydiyp1X790zSVEKoIBZsLNkz954743K9Hwe1w5icp0qv
+8kIrJOsbR12l3zdP2a1WiYEaGDxhpQ+Y9Lq+vCg3h4BJiZpSpXvmcGdMsj2OkHIfkKTS+jgCyzV2
+JoD9gA7NdVHcGOuJkTjjyUPX5QO2sB1YPe7l+Zgk4pC0uj82TqxKQwiDs8CS1Oyo+UbJFkIuyrkn
+9S6kK4mhzVnCVPkZsOheZTXRNajeIPILjBLDsAyJX89nIBkt5r87nons29ZZbLzdjrKOfDZezE7B
+/xRg9T/oE9PMf1t/AgAA//8DAFBLAwQUAAYACAAAACEApdan58AAAAA2AQAACwAAAF9yZWxzLy5y
+ZWxzhI/PasMwDIfvhb2D0X1R0sMYJXYvpZBDL6N9AOEof2giG9sb69tPxwYKuwiEpO/3qT3+rov5
+4ZTnIBaaqgbD4kM/y2jhdj2/f4LJhaSnJQhbeHCGo3vbtV+8UNGjPM0xG6VItjCVEg+I2U+8Uq5C
+ZNHJENJKRds0YiR/p5FxX9cfmJ4Z4DZM0/UWUtc3YK6PqMn/s8MwzJ5PwX+vLOVFBG43lExp5GKh
+qC/jU72QqGWq1B7Qtbj51v0BAAD//wMAUEsDBBQABgAIAAAAIQBreZYWgwAAAIoAAAAcAAAAdGhl
+bWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbAzMTQrDIBBA4X2hd5DZN2O7KEVissuuu/YAQ5waQceg
+0p/b1+XjgzfO3xTVm0sNWSycBw2KZc0uiLfwfCynG6jaSBzFLGzhxxXm6XgYybSNE99JyHNRfSPV
+kIWttd0g1rUr1SHvLN1euSRqPYtHV+jT9yniResrJgoCOP0BAAD//wMAUEsDBBQABgAIAAAAIQC2
+9GeYkwcAAMkgAAAWAAAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbOxZzYsbyRW/B/I/NH2X9dWtj8Hy
+ok/P2jO2sWSHPdZIpe7yVHeJqtKMxWII3lMugcAm5JCFve0hhCzswi655I8x2CSbPyKvqlvdVVLJ
+nhkcMGFGMHSXfu/Vr9579d5T1d3PXibUu8BcEJb2/Pqdmu/hdM4WJI16/rPZpNLxPSFRukCUpbjn
+b7DwP7v361/dRUcyxgn2QD4VR6jnx1KujqpVMYdhJO6wFU7huyXjCZLwyqPqgqNL0JvQaqNWa1UT
+RFLfS1ECah8vl2SOvZlS6d/bKh9TeE2lUANzyqdKNbYkNHZxXlcIsRFDyr0LRHs+zLNglzP8Uvoe
+RULCFz2/pv/86r27VXSUC1F5QNaQm+i/XC4XWJw39Jw8OismDYIwaPUL/RpA5T5u3B63xq1Cnwag
++RxWmnGxdbYbwyDHGqDs0aF71B416xbe0N/c49wP1cfCa1CmP9jDTyZDsKKF16AMH+7hw0F3MLL1
+a1CGb+3h27X+KGhb+jUopiQ930PXwlZzuF1tAVkyeuyEd8Ng0m7kyksUREMRXWqKJUvloVhL0AvG
+JwBQQIokST25WeElmkMUDxElZ5x4JySKIfBWKGUChmuN2qTWhP/qE+gn7VF0hJEhrXgBE7E3pPh4
+Ys7JSvb8B6DVNyBvf/75zesf37z+6c1XX715/fd8bq3KkjtGaWTK/fLdH/7zzW+9f//w7S9f/zGb
+ehcvTPy7v/3u3T/++T71sOLSFG//9P27H79/++ff/+uvXzu09zk6M+EzkmDhPcKX3lOWwAId/PEZ
+v57ELEbElOinkUApUrM49I9lbKEfbRBFDtwA23Z8ziHVuID31y8swtOYryVxaHwYJxbwlDE6YNxp
+hYdqLsPMs3UauSfnaxP3FKEL19xDlFpeHq9XkGOJS+UwxhbNJxSlEkU4xdJT37FzjB2r+4IQy66n
+ZM6ZYEvpfUG8ASJOk8zImRVNpdAxScAvGxdB8Ldlm9Pn3oBR16pH+MJGwt5A1EF+hqllxvtoLVHi
+UjlDCTUNfoJk7CI53fC5iRsLCZ6OMGXeeIGFcMk85rBew+kPIc243X5KN4mN5JKcu3SeIMZM5Iid
+D2OUrFzYKUljE/u5OIcQRd4TJl3wU2bvEPUOfkDpQXc/J9hy94ezwTPIsCalMkDUN2vu8OV9zKz4
+nW7oEmFXqunzxEqxfU6c0TFYR1Zon2BM0SVaYOw9+9zBYMBWls1L0g9iyCrH2BVYD5Adq+o9xQJ6
+JdXc7OfJEyKskJ3iiB3gc7rZSTwblCaIH9L8CLxu2nwMpS5xBcBjOj83gY8I9IAQL06jPBagwwju
+g1qfxMgqYOpduON1wy3/XWWPwb58YdG4wr4EGXxtGUjspsx7bTND1JqgDJgZgi7DlW5BxHJ/KaKK
+qxZbO+WW9qYt3QDdkdX0JCT9YAe00/uE/7veBzqMt3/5xrEPPk6/41ZsJatrdjqHksnxTn9zCLfb
+1QwZX5BPv6kZoXX6BEMd2c9Ytz3NbU/j/9/3NIf2820nc6jfuO1kfOgwbjuZ/HDl43QyZfMCfY06
+8MgOevSxT3Lw1GdJKJ3KDcUnQh/8CPg9s5jAoJLTJ564OAVcxfCoyhxMYOEijrSMx5n8DZHxNEYr
+OB2q+0pJJHLVkfBWTMChkR526lZ4uk5O2SI77KzX1cFmVlkFkuV4LSzG4aBKZuhWuzzAK9RrtpE+
+aN0SULLXIWFMZpNoOki0t4PKSPpYF4zmIKFX9lFYdB0sOkr91lV7LIBa4RX4we3Bz/SeHwYgAkJw
+HgfN+UL5KXP11rvamR/T04eMaUUANNjbCCg93VVcDy5PrS4LtSt42iJhhJtNQltGN3gihp/BeXSq
+0avQuK6vu6VLLXrKFHo+CK2SRrvzPhY39TXI7eYGmpqZgqbeZc9vNUMImTla9fwlHBrDY7KC2BHq
+NxeiEdy8zCXPNvxNMsuKCzlCIs4MrpNOlg0SIjH3KEl6vlp+4Qaa6hyiudUbkBA+WXJdSCufGjlw
+uu1kvFziuTTdbowoS2evkOGzXOH8VovfHKwk2RrcPY0Xl94ZXfOnCEIsbNeVARdEwN1BPbPmgsBl
+WJHIyvjbKUx52jVvo3QMZeOIrmKUVxQzmWdwncoLOvqtsIHxlq8ZDGqYJC+EZ5EqsKZRrWpaVI2M
+w8Gq+2EhZTkjaZY108oqqmq6s5g1w7YM7NjyZkXeYLU1MeQ0s8JnqXs35Xa3uW6nTyiqBBi8sJ+j
+6l6hIBjUysksaorxfhpWOTsftWvHdoEfoHaVImFk/dZW7Y7dihrhnA4Gb1T5QW43amFoue0rtaX1
+rbl5sc3OXkDyGEGXu6ZSaFfCyS5H0BBNdU+SpQ3YIi9lvjXgyVtz0vO/rIX9YNgIh5VaJxxXgmZQ
+q3TCfrPSD8NmfRzWa6NB4xUUFhkn9TC7sZ/ABQbd5Pf2enzv7j7Z3tHcmbOkyvTdfFUT13f39cbh
+u3uPQNL5stWYdJvdQavSbfYnlWA06FS6w9agMmoN26PJaBh2upNXvnehwUG/OQxa406lVR8OK0Gr
+puh3upV20Gj0g3a/Mw76r/I2BlaepY/cFmBezevefwEAAP//AwBQSwMEFAAGAAgAAAAhAA3RkJ+2
+AAAAGwEAACcAAAB0aGVtZS90aGVtZS9fcmVscy90aGVtZU1hbmFnZXIueG1sLnJlbHOEj00KwjAU
+hPeCdwhvb9O6EJEm3YjQrdQDhOQ1DTY/JFHs7Q2uLAguh2G+mWm7l53JE2My3jFoqhoIOumVcZrB
+bbjsjkBSFk6J2TtksGCCjm837RVnkUsoTSYkUiguMZhyDidKk5zQilT5gK44o49W5CKjpkHIu9BI
+93V9oPGbAXzFJL1iEHvVABmWUJr/s/04GolnLx8WXf5RQXPZhQUoosbM4CObqkwEylu6usTfAAAA
+//8DAFBLAQItABQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAAAAAAAAAAAAAAAAAAABbQ29udGVu
+dF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhAKXWp+fAAAAANgEAAAsAAAAAAAAAAAAAAAAAMAEA
+AF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAGt5lhaDAAAAigAAABwAAAAAAAAAAAAAAAAAGQIA
+AHRoZW1lL3RoZW1lL3RoZW1lTWFuYWdlci54bWxQSwECLQAUAAYACAAAACEAtvRnmJMHAADJIAAA
+FgAAAAAAAAAAAAAAAADWAgAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbFBLAQItABQABgAIAAAAIQAN
+0ZCftgAAABsBAAAnAAAAAAAAAAAAAAAAAJ0KAAB0aGVtZS90aGVtZS9fcmVscy90aGVtZU1hbmFn
+ZXIueG1sLnJlbHNQSwUGAAAAAAUABQBdAQAAmAsAAAAA
+
+------=_NextPart_01D931AC.5A080030
+Content-Location: file:///C:/9648B0D3/AppliedMechanics_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01D931AC.5A080030
+Content-Location: file:///C:/9648B0D3/AppliedMechanics_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../AppliedMechanics.htm"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D931AC.5A080030--
